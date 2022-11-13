@@ -1,0 +1,27 @@
+h1{
+    text-decoration: underline;
+    font-weight: bold;
+    color: blueviolet;
+}
+h2{
+   color: brown;
+    text-decoration:solid;
+
+}
+h3{
+font-size:small;
+color: coral ;
+}
+p{ font-size: 1.5rem;
+    font-style: italic;  
+}
+
+
+span{ 
+    background-color: chartreuse;
+    font-weight: bold;
+    font-style: italic;
+    }
+    div {
+        background-color: blue;
+    }
